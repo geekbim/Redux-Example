@@ -1,0 +1,12 @@
+.blog{
+    max-width: 540px;
+    box-shadow: 5px 5px 5px #ccc;
+}
+
+.card-img {
+    padding-top: 10%;
+}
+
+.card-title {
+    cursor: pointer;
+}
